@@ -1,0 +1,16 @@
+INFO:     2401:4900:88dc:dcfb:d401:fd23:5415:1692:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     None:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     2401:4900:88dc:dcfb:1fdb:32dc:6b02:aad9:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55811 - "GET /api/prices HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55811 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     None:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     None:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     None:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     None:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     None:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     None:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     None:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56674 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     2401:4900:88dc:dcfb:1fdb:32dc:6b02:aad9:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     2401:4900:88dc:dcfb:1fdb:32dc:6b02:aad9:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57771 - "GET /api/health HTTP/1.1" 200 OK
