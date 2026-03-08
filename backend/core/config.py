@@ -33,7 +33,7 @@ CANDLE_LIMIT = 200
 
 # ── Scanning ─────────────────────────────────────────────────────
 SCAN_INTERVAL_MS   = 200  # how often the scanner loops (ms)
-SIGNAL_COOLDOWN_S  = 14400    # seconds before re-signalling same pair/dir
+SIGNAL_COOLDOWN_S  =600 # seconds before re-signalling same pair/dir
 
 # ── Risk settings ────────────────────────────────────────────────
 MIN_RR             = 1.0   # minimum Risk:Reward to emit signal
