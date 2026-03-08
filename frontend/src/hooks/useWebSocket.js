@@ -5,8 +5,9 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 
 const WS_URL = process.env.REACT_APP_WS_URL ||
-  (window.location.protocol === 'https:' ? 'wss://' : 'ws://') +
-  (window.location.hostname === 'localhost' ? 'localhost:8000' : window.location.host) + '/ws';
+  (window.location.hostname === 'localhost'
+    ? 'ws://localhost:8000/ws'
+    : 'wss://smc-backend-itgt.onrender.com/ws');
 
 export default function useWebSocket() {
   const [signals,   setSignals]   = useState([]);
